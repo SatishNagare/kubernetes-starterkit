@@ -112,3 +112,4 @@ bin/*
 
 # dist directory
 dist/*
+/.vs
